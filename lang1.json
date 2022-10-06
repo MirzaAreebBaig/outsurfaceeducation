@@ -1,0 +1,42 @@
+[
+  {
+    "title":"Intermediate 1st Year Telugu",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ1Er4I-yDqV0qgk_Dqw7dNk",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"Intermediate 1st Year English",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ1V4ujHHyoxkjbL4pq8bzuT",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"Intermediate 1st Year Sanskrit",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ02AR6c2x_BxOT6RGOV67OV",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"1st Intermediate Arabic",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ0bFAbaGulxvjq-x49-dyE-",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  }
+]

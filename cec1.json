@@ -1,0 +1,32 @@
+[
+  {
+    "title":"Inter 1st Year Accountancy",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ20-XYTx42UdILY4AmjvyMq",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"Intermediate 1st Year Commerce",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ34jLZr4pxxWJURMmf-T7Ej",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"Intermediate 1st Year Civics",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ3kccGBhEPOrs5rTX6GoeJw",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  }
+]

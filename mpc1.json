@@ -1,0 +1,42 @@
+[
+  {
+    "title":"Intermediate 1st Year Physics",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ0utPidgskAyYJsWi5zEcV8",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"Intermediate 1st Year Chemistry",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ0IG-G_iFgW7HGc8VAbLiQ8",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"Intermediate 1st Year Maths-1A",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ0hbABCM8LqbvbC5cOKKsmE",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"Intermediate 1st Year Maths -1B",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ3wUUIN10uRvom8o242Tkno",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  }
+]

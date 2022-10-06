@@ -1,0 +1,42 @@
+[
+  {
+    "title":"Intermediate 2nd Year Zoology",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ2QW1e6TFxzQACe606Ce9Jz",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"Intermediate 2nd Year Botany",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ0G-gJpXFTWGLrwr3Ay2xTF",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"Intermediate 2nd Year Chemistry",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ0IG-G_iFgW7HGc8VAbLiQ8",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  },
+  {
+    "title":"Intermediate 2nd Year Physics",
+    "provider":"youtube",
+    "image":"https://unsplash.it/720/480?image=965",
+    "arguments":[
+		"PLpEjF93WjeZ0utPidgskAyYJsWi5zEcV8",
+        "playlist",
+        "AIzaSyDjrsw_DpGbctBTUWuK5K1nxr_hn5XPsuw"
+    ]
+  }
+]

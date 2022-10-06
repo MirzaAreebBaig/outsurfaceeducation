@@ -1,0 +1,82 @@
+[
+  {
+    "title":"BIPC 1st Year",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "bipc1.json"
+    ]
+  },
+  {
+    "title":"MPC 1st Year",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "mpc1.json"
+    ]
+  },
+  {
+    "title":"MEC 1st Year",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "mec1.json"
+    ]
+  },
+  {
+    "title":"CEC 1st Year",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "cec1.json"
+    ]
+  },
+  {
+    "title":"Languages 1st Year",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "lang1.json"
+    ]
+  },
+  {
+    "title":"BIPC 2nd Year",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "bipc2.json"
+    ]
+  },
+  {
+    "title":"MPC 2nd Year",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "mpc2.json"
+    ]
+  },
+  {
+    "title":"MEC 2nd Year",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "mec2.json"
+    ]
+  },
+  {
+    "title":"CEC 2nd Year",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "cec2.json"
+    ]
+  },
+  {
+    "title":"Languages 2nd Year",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "lang2.json"
+    ]
+  }
+]
